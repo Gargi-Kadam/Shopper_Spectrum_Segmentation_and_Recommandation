@@ -83,6 +83,17 @@ Feel free to use, modify, or contribute to this project.
 
 ---
 
+## 📂 Quick Access
+
+- 🔍 [Explore Notebooks](https://github.com/Gargi-Kadam/Shopper_Spectrum_Segmentation_and_Recommandation/tree/main/notebooks)
+- 📑 [View Code Scripts](https://github.com/Gargi-Kadam/Shopper_Spectrum_Segmentation_and_Recommandation/tree/main/scripts)
+- 📈 [Open Dataset](https://github.com/Gargi-Kadam/Shopper_Spectrum_Segmentation_and_Recommandation/tree/main/data)
+
+---
+
+
+---
+
 ## 🙋‍♀️ Author
 
 **Gargi Kadam**  
